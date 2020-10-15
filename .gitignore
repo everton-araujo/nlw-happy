@@ -1,9 +1,9 @@
-# Backend
+## Backend ##
 
 backend/node_modules
 backend/uploads/*.jpg
 
-# Web
+## Web ##
 
 # dependencies
 web/node_modules
@@ -28,9 +28,9 @@ web/npm-debug.log*
 web/yarn-debug.log*
 web/yarn-error.log*
 
-# Mobile
+## Mobile ##
 
-mobile/node_modules/**/*
+mobile/node_modules
 mobile/.expo/*
 mobile/npm-debug.*
 mobile/*.jks
